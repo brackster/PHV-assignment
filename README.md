@@ -14,4 +14,4 @@ This can be expanded to all kinds of stocks by simply replacing the symbol varia
 
 ## Screenshots
 
-![App Screenshot](https://github.com/brackster/PHV-assignment/blob/main/git.png?raw=true)
+![App Screenshot]([https://github.com/brackster/PHV-assignment/blob/main/git.png?raw=true](https://github.com/brackster/PHV-assignment/blob/main/image.png))
